@@ -40,7 +40,7 @@ h4.indifferent{
 }
 .indifferent {
   border: 1px solid #cac650;
-  box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #cac650, -4px 4px #cac650, -5px 5px #cac650;
+  box-shadow:  -1px 1px #cac650, -2px 2px #cac650, -3px 3px #cac650, -4px 4px #cac650, -5px 5px #cac650;
   background-color: #dddd22;
 }
 h4.dubious{
